@@ -1,0 +1,119 @@
+h3{
+    font-size: 25px !important;
+}
+.btn-success:hover{
+    background-color: blue;
+}
+canvas{
+    animation-name: rainbow;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    margin-top: 40px;
+}
+@keyframes rainbow{
+    0%{box-shadow: 1px 1px 38px red;}
+    20%{box-shadow: 1px 1px 38px orange;}
+    40%{box-shadow: 1px 1px 38px yellow;}
+    60%{box-shadow: 1px 1px 38px green;}
+    75%{box-shadow: 1px 1px 38px blue;}
+    90%{box-shadow: 1px 1px 38px indigo;}
+    100%{box-shadow: 1px 1px 38px violet;}
+  }  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
